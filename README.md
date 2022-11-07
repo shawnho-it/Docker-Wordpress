@@ -1,4 +1,4 @@
-# terraform-aws-basic
+# Wordpress-with-Docker
 The goal of this project is to spin up Wordpress, alongside MySQL 5.7 & Nginx for reverse proxy, using [Docker](https://docker.com).
 
 ## Configurations
