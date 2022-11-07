@@ -16,4 +16,4 @@ The purpose of this code is to simulate a basic working infrastructure of hostin
 4. Run "docker-compose up -d".
 5. Visit your IP address in a browser.
 
-NOTE: Your must have docker & docker-compose installed.
+NOTE: You must have docker & docker-compose installed.
